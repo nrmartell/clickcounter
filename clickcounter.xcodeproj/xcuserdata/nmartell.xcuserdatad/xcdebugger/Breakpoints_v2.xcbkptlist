@@ -10,13 +10,91 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "clickcounter/ViewController.swift"
-            timestampString = "500662433.090319"
+            timestampString = "500680866.084437"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "48"
-            endingLineNumber = "48"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
             landmarkName = "incrementCount()"
             landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "clickcounter/ViewController.swift"
+            timestampString = "500679435.668571"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "clickcounter.ViewController.label.getter : __ObjC.UILabel"
+                  moduleName = "clickcounter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nmartell/code/clickcounter/clickcounter/ViewController.swift"
+                  timestampString = "500679436.077901"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "35">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "clickcounter.ViewController.label.setter : __ObjC.UILabel"
+                  moduleName = "clickcounter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nmartell/code/clickcounter/clickcounter/ViewController.swift"
+                  timestampString = "500679436.079534"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "65">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "clickcounter.ViewController.init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; clickcounter.ViewController"
+                  moduleName = "clickcounter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nmartell/code/clickcounter/clickcounter/ViewController.swift"
+                  timestampString = "500679436.081067"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "72">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "clickcounter.ViewController.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;clickcounter.ViewController&gt;"
+                  moduleName = "clickcounter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nmartell/code/clickcounter/clickcounter/ViewController.swift"
+                  timestampString = "500679436.082494"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "31">
+               </Location>
+            </Locations>
          </BreakpointContent>
       </BreakpointProxy>
    </Breakpoints>
